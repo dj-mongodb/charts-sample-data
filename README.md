@@ -2,7 +2,9 @@
 Download, create and push sample data to work with Atlas charts
 
 ## Install config
-`pip3 install config`
+```
+pip3 install config
+```
 
 ## Change config file
 - Rename config file from `config.sample.py` to `config.py`
